@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DanceWit",
+    "description": "",
+    "home_page_url": "https://dancewit.github.io/dancewit",
+    "feed_url": "https://dancewit.github.io/dancewit/feed.json",
+    "user_comment": "",
+    "icon": "https://dancewit.github.io/dancewit/media/website/dancewit.png",
+    "author": {
+        "name": "Pallavi"
+    },
+    "items": [
+    ]
+}

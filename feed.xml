@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>DanceWit</title>
+    <link href="https://dancewit.github.io/dancewit/feed.xml" rel="self" />
+    <link href="https://dancewit.github.io/dancewit" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Pallavi</name>
+    </author>
+    <id>https://dancewit.github.io/dancewit</id>
+
+</feed>
